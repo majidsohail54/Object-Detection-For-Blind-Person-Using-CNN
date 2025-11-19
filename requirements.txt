@@ -1,0 +1,11 @@
+ultralytics
+opencv-python
+pyttsx3
+numpy
+# Optional for online TTS + translations (uncomment if you want them)
+# gTTS
+# googletrans==4.0.0-rc1
+# playsound==1.2.2
+gTTS
+googletrans==4.0.0-rc1
+playsound==1.2.2
